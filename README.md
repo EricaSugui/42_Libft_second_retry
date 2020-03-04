@@ -15,5 +15,6 @@ Você foi avisado. Essa lista pode dar ZERO. De novo
 Obrigada!
 
 Bot.
-#####Easter Egg
-######115%
+
+##### Easter Egg
+###### 115%
